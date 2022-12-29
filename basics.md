@@ -35,7 +35,7 @@ flowchart LR
       C1(добре)
     end
 
-    A1-.-B1
+    A1-..-B1
     A2-.-B2
     A3-.-B3
     A4-.-B4
@@ -44,7 +44,7 @@ flowchart LR
     A7-.-B5
     A8-.-B8
 
-    B1-.-C1
+    B1-..-C1
     B2-.-C1
     B3-.-C1
     B4-.-C1
