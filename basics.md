@@ -11,7 +11,7 @@ flowchart LR
       A3(fa:fa-user Ти)
       A4(fa:fa-user fa:fa-users Вие)
       A5(fa:fa-user fa:fa-cube Той)
-      A6(fa:fa-user fa:fa-cube Та)
+      A6(fa:fa-user fa:fa-cube Тя)
       A7(fa:fa-child fa:fa-cube То)
       A8(fa:fa-users fa:fa-cubes Те)
     end
@@ -71,7 +71,7 @@ flowchart LR
       A3(fa:fa-user Ти)
       A4(fa:fa-user fa:fa-users Вие)
       A5(fa:fa-user fa:fa-cube Той)
-      A6(fa:fa-user fa:fa-cube Та)
+      A6(fa:fa-user fa:fa-cube Тя)
       A7(fa:fa-child fa:fa-cube То)
       A8(fa:fa-users fa:fa-cubes Те)
     end
